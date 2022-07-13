@@ -168,6 +168,26 @@ input {
 	border-bottom: 8px solid #222;	
 }
 
+.download-media {
+	font-size: 30px;
+	text-align: left;
+	position: relative;
+	padding: 150px 10%;
+	padding-left: 280px;
+	margin-bottom: 0;
+	background: 0 0;
+	display: block;
+	border-bottom: 8px solid #222;
+}
+
+.download-media h2 {
+	color: rgb(186, 243, 18);
+}
+
+.download-media p {
+	color: rgb(238, 29, 5);
+}
+
 .watch-everywhere img {
 	width: 450px;
 	position: absolute;
